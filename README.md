@@ -7,7 +7,7 @@ I am an IT enthusiast with a goal of becoming an AI Cloud Security Architect Eng
 
 | **Day Job** | **The Big Goal** | **Current Engineering Project** |
 | :--- | :--- | :--- |
-| **Data Center Technician II**<br>*Operating large-scale infrastructure & hardware.* | **AI Cloud Security Architect**<br>*Blending secure cloud design, defense, and Gen AI.* | **Architecting Morpheus**<br> |
+| **Infrastructure & Hardware**<br>*Operating large-scale infrastructure & hardware.* | **AI Cloud Security Architect**<br>*Blending secure cloud design, defense, and Gen AI.* | **Architecting Morpheus**<br> |
 
 ---
 
@@ -61,5 +61,5 @@ I am an IT enthusiast with a goal of becoming an AI Cloud Security Architect Eng
 ## 📫 Connect with Me
 
  **Website:** [sorispace.com](https://sorispace.com)  
- **LinkedIn:** [Mariana Lugo](https://www.linkedin.com/in/mariana-lugo/)  
- **YouTube:** [Astro in the Cloud](https://www.youtube.com)
+ **YouTube:** [sorispacetech](www.youtube.com/@sorispacetec)
+ **LinkTree:** []()
