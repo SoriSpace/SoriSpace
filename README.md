@@ -1,6 +1,6 @@
 # Hey hey! I'm  Sori ✨
 
-I am an IT enthusiast with a goal of becoming an AI Cloud Security Architect Engineer. Trying different things and blending cybersecurity and cloud architecture.
+I am an IT enthusiast with a goal of becoming an AI Cloud Security Architect. Trying different things and blending cybersecurity and cloud architecture.
 ---
 
 ## The Mission Control (What I Do)
@@ -60,6 +60,5 @@ I am an IT enthusiast with a goal of becoming an AI Cloud Security Architect Eng
 
 ## 📫 Connect with Me
 
- **Website:** [sorispace.com](https://sorispace.com)  
- **YouTube:** [sorispacetech](www.youtube.com/@sorispacetec)
- **LinkTree:** []()
+**Website:** [sorispace.com](https://sorispace.com)  
+**YouTube:** [@sorispacetech](https://www.youtube.com/@sorispacetech)
